@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.1;
 
-// We can import the SafeMath functiosn from Zeppelin to make sure we don't accidentally wrap around in our functions
+// We can import the SafeMath functions from Zeppelin to make sure we don't accidentally wrap around in our functions
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/contracts/utils/math/SafeMath.sol";
 
 contract LibrariesExample {

@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: GPL-3.0
 // From Ethereum Blockchain Developer Bootcamp: https://www.udemy.com/course/blockchain-developer/
 
+// This one has a number of functions, including a "receive" function which is a fallback in case someone just sends money to this contract
+
 pragma solidity ^0.8.1;
 
 contract ExceptionHandling {
